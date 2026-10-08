@@ -1,0 +1,11 @@
+# Entornos virtuales
+.venv/
+.venv-voz/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos privados
+mi_voz.wav
