@@ -12,7 +12,7 @@ Python · PyTorch · Chatterbox Multilingual · Librosa · Jupyter Notebook
 
 Aquí tienes un ejemplo de **mi voz clonada hablando en inglés**, utilizando únicamente una grabación original en español.
 
-👉 **[Escuchar mi voz hablando en inglés](audios/07_voz_ingles.wav)**
+[🎧 Escuchar mi voz hablando en inglés](audios/07_voz_ingles.wav)
 
 ## 💡 Conclusión
 
